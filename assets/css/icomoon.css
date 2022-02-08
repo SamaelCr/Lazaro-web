@@ -1,0 +1,174 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?bwg9zb');
+  src:  url('../fonts/icomoon.eot?bwg9zb#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?bwg9zb') format('truetype'),
+    url('../fonts/icomoon.woff?bwg9zb') format('woff'),
+    url('../fonts/icomoon.svg?bwg9zb#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bitcoin:before {
+  content: "\e900";
+}
+.icon-blank-calendar:before {
+  content: "\e901";
+}
+.icon-border-circle:before {
+  content: "\e902";
+}
+.icon-business:before {
+  content: "\e903";
+}
+.icon-business2:before {
+  content: "\e904";
+}
+.icon-business3:before {
+  content: "\e905";
+}
+.icon-business4:before {
+  content: "\e906";
+}
+.icon-business-plan:before {
+  content: "\e907";
+}
+.icon-call:before {
+  content: "\e908";
+}
+.icon-call2:before {
+  content: "\e909";
+}
+.icon-close:before {
+  content: "\e90a";
+}
+.icon-cyber-security:before {
+  content: "\e90b";
+}
+.icon-email:before {
+  content: "\e90c";
+}
+.icon-emergency-call:before {
+  content: "\e90d";
+}
+.icon-growth:before {
+  content: "\e90e";
+}
+.icon-home:before {
+  content: "\e90f";
+}
+.icon-international-business:before {
+  content: "\e910";
+}
+.icon-investment-insurance:before {
+  content: "\e911";
+}
+.icon-left-angle:before {
+  content: "\e912";
+}
+.icon-left-circle-arrow:before {
+  content: "\e913";
+}
+.icon-left-quote:before {
+  content: "\e914";
+}
+.icon-map-pin:before {
+  content: "\e915";
+}
+.icon-menu:before {
+  content: "\e916";
+}
+.icon-money:before {
+  content: "\e917";
+}
+.icon-money2:before {
+  content: "\e918";
+}
+.icon-money-growth:before {
+  content: "\e919";
+}
+.icon-phone:before {
+  content: "\e91a";
+}
+.icon-play-button:before {
+  content: "\e91b";
+}
+.icon-reliability:before {
+  content: "\e91c";
+}
+.icon-return-of-investment:before {
+  content: "\e91d";
+}
+.icon-return-on-investment2:before {
+  content: "\e91e";
+}
+.icon-rg-left-caret:before {
+  content: "\e91f";
+}
+.icon-rg-tags:before {
+  content: "\e920";
+}
+.icon-right-angle:before {
+  content: "\e921";
+}
+.icon-right-arrow:before {
+  content: "\e922";
+}
+.icon-right-circle-arrow:before {
+  content: "\e923";
+}
+.icon-software:before {
+  content: "\e924";
+}
+.icon-taxes:before {
+  content: "\e925";
+}
+.icon-visual-thinking:before {
+  content: "\e926";
+}
+.icon-web-window:before {
+  content: "\e927";
+}
+.icon-phone1:before {
+  content: "\e942";
+}
+.icon-eye:before {
+  content: "\e9ce";
+}
+.icon-warning:before {
+  content: "\ea07";
+}
+.icon-notification:before {
+  content: "\ea08";
+}
+.icon-question:before {
+  content: "\ea09";
+}
+.icon-info:before {
+  content: "\ea0c";
+}
+.icon-cancel-circle:before {
+  content: "\ea0d";
+}
+.icon-blocked:before {
+  content: "\ea0e";
+}
+.icon-checkbox-checked:before {
+  content: "\ea52";
+}
